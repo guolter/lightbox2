@@ -47,8 +47,8 @@ lightbox = new Lightbox options
   LightboxOptions = (function() {
 
     function LightboxOptions() {
-      this.fileLoadingImage = 'loading.png';
-      this.fileCloseImage = 'images/close.png';
+      this.fileLoadingImage = 'https://github.com/guolter/lightbox2/raw/master/images/loading.gif';
+      this.fileCloseImage = 'https://github.com/guolter/lightbox2/raw/master/images/close.png';
       this.resizeDuration = 700;
       this.fadeDuration = 500;
       this.labelImage = "Image";
