@@ -1,4 +1,3 @@
-
 /*
 Lightbox v2.51
 by Lokesh Dhakar - http://www.lokeshdhakar.com
@@ -48,7 +47,7 @@ lightbox = new Lightbox options
   LightboxOptions = (function() {
 
     function LightboxOptions() {
-      this.fileLoadingImage = 'images/loading.gif';
+      this.fileLoadingImage = 'loading.png';
       this.fileCloseImage = 'images/close.png';
       this.resizeDuration = 700;
       this.fadeDuration = 500;
